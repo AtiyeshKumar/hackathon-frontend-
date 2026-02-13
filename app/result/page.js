@@ -107,7 +107,7 @@ export default function ResultPage() {
                     lineHeight: '1.6',
                     color: '#a1a1aa',
                     marginBottom: '3rem',
-                    maxWidth: '600px',
+                    maxWidth: '601px',
                     marginLeft: 'auto',
                     marginRight: 'auto'
                 }}>
